@@ -1,0 +1,20 @@
+[
+{
+    "modid":                    "colorblocksplus",
+    "name":                     "Color Blocks Plus",
+    "description":              "",
+    "version":                  "1.0.20180725",
+    "mcversion":                "1.7.10",
+    "url":                      "https://gitlab.com/Isthmis/Color-Blocks-Plus",
+    "updateUrl":                "",
+    "authorList":               ["Mutous"],
+    "credits":                  "",
+    "logoFile":                 "",
+    "screenshots":              [],
+    "parent":                   "",
+    "requiredMods":             [],
+    "dependencies":             ["Forge"],
+    "dependants":               [],
+    "useDependencyInformation": true
+}
+]
